@@ -6,4 +6,4 @@
 #### 🛠️ Especificaciones del Pipeline:
 - **Origen:** Exportación estructurada desde base de datos relacional (Supabase REST / CSV).
 - **Procesamiento:** Limpieza, agregaciones y métricas con `pandas`.
-- **Visualización:** Análisis de distribución estética y correlación de *Liminality Score™* mediante `seaborn` y `matplotlib`.
+* Visualización: Análisis de distribución de frecuencias estéticas y estado del inmueble mediante seaborn y matplotlib.
